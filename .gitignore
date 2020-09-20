@@ -1,0 +1,5 @@
+venv/
+db.sqlite3
+chromedriver.exe
+__pycache__/
+*.py[cod]
